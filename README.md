@@ -10,6 +10,14 @@
 
 ### My React Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
-          
 
+My React Stack, other tools I use and used with React, technologies I am going to learn.
 
+- **fundamentals** of react framework
+- creating react application using **hooks** and **context**
+- styling websites with basic tools and **css frameworks** and **Storybook**
+- routing with **Router 6** or frameworks like **Next.js** or **Gatsby**
+- handling forms with pure react, **Formik** or **React Hook Form**
+- managing state with **React Query** and **Redux Toolkit**
+- **advanced** react development with **typescript**
+- testing react applications with **libraries**, **Jest** and **Cypress**
