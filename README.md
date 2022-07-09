@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [MajkoDev!](https://github.com/MajkoDev)
 
-### I am Self-Taught Front-End Developer living near Trencin, Slovakia.
+### I am Self-Learning Front-End Developer living near Trencin, Slovakia.
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
 [![My Tech](https://skills.thijs.gg/icons?i=vscode,figma&theme=light)](https://skills.thijs.gg)
