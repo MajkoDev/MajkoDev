@@ -11,8 +11,13 @@
 ### My Front-End Stack.
 
 
+
 #### Review of Last Year.
-Last year, I had many plans and goal. Some of them I accomplished, some I have not and many of them I have started and will continue this year. 
+Last year, I had many plans and goal. Some of them I accomplished, some I have not and many of them I have started and will continue this year. I'm glad that I was able to work with **react framework** and create my portfolio with Chakra Ui and Graph Cms. Also, I learned using **Router 6**, **NextJs**, **Styled Components**, and even **React Query**. Late this year, I started work with **Tailwind Css**, which I enjoyed, and **Redux Toolkit**, which I must work with more to be completelly comfortable.
+
+What I regret is not having time to learn and focus of using react with **Typescript** and also I wanted finally get to **testing** react applications. Another thing that I desired to work with is **Framer Motion**, but I looked to it and it doesn's looks complicated.
+
+
 
 
 
@@ -22,7 +27,7 @@ My React Stack, other tools I use and used with React, technologies I am going t
 **fundamentals** of react framework <br />
 creating react application using **hooks** and **context** <br />
 styling websites with basic tools and **css frameworks** and **Storybook** <br />
-routing with **Router 6** or frameworks like **Next.js** or **Gatsby** <br />
+routing with  or frameworks like **Next.js** or **Gatsby** <br />
 handling forms with pure react, **Formik** or **React Hook Form** <br />
 managing state with **React Query** and **Redux Toolkit** <br />
 **advanced** react development with **typescript** <br />
