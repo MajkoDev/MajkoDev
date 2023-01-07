@@ -8,10 +8,14 @@
 [![My Stack](https://skills.thijs.gg/icons?i=vscode,react,js&theme=dark)](https://skills.thijs.gg)
 
 
+### My Front-End Stack.
+
+
+#### Review of Last Year.
+Last year, I had many plans and goal. Some of them I accomplished, some I have not and many of them I have started and will continue this year. 
 
 
 
-### My React Stack
 
 My React Stack, other tools I use and used with React, technologies I am going to learn:
 
