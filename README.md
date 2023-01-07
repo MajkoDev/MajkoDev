@@ -2,8 +2,8 @@
 
 ### I am Self-Learning Front-End Developer living near Trencin, Slovakia.
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,js)](https://skills.thijs.gg)
-[![My Tech](https://skills.thijs.gg/icons?i=vscode&theme=dark)](https://skills.thijs.gg)
+[![My Stack](https://skills.thijs.gg/icons?i=vscode,react,js&theme=dark)](https://skills.thijs.gg)
+
 
 
 
