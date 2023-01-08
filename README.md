@@ -11,8 +11,9 @@
 
 **FRONT-END** <br />
 more and more deeper understanding of **react framework**, <br />
-using state management, api calls and testing - if I am lucky, also typescript<br />
+using state management, api calls and testing libraries <br />
 proficiency in desinging with **Tailwind Css** and **Framer Motion**  <br />
+if time permits, I will again look to typescript and advanced javascript<br />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /> 
 
