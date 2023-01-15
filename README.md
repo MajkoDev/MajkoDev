@@ -17,8 +17,8 @@ if time permits, I will again look to typescript and advanced javascript<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /> 
 
 **BACK-END** <br />
-<ins>BaaS Platforms</ins>: **Supabase** and **Firebase**, providing software for authentication, database management, real-time updating, storage, hosting,... <br />
-<ins>MERN-Stack Development</ins>: javascript web server of **NodeJS**, its web framework **Express** and document database of **MongoDB**. <br />
+<ins>BaaS Platforms</ins>: **Supabase** and **Firebase**, providing software for authentication, <br/>database management, real-time updating, storage, hosting,... <br />
+<ins>MERN-Stack Development</ins>: javascript web server of **NodeJS**, its web framework **Express** <br/>and document database of **MongoDB**. <br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" /> 
 
 **JAM-STACK** <br />
