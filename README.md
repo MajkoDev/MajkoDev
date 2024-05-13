@@ -2,7 +2,6 @@
 
 Self-taught frontend developer living in Slovakia, near Trencin.
 
-![My Stack](https://skills.thijs.gg/icons?i=react,nextjs,tailwind&theme=dark)
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40px" width="40px" />
